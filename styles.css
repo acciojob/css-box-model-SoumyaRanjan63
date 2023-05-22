@@ -5,20 +5,16 @@
   padding: 20px;
   background-color: white;
 }
-.border{
-    border: 15px solid blue;
-  
 
-}
 .padding{
    border: 1px solid lightblue;
-   padding: 50px;
    background-color: lightblue;
    
 }
 .text-box{
     border: 2px dashed black;
     width: 300px;
+	padding:50px;
 	border:15px solid rgb(0,0,255);
 	background-color:rgb(173, 216, 230);
     
