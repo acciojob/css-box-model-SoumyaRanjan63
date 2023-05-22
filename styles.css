@@ -19,5 +19,6 @@
 .text-box{
     border: 2px dashed black;
     width: 300px;
+	background-color:rgb(173, 216, 230);
     
 }
